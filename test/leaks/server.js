@@ -13,4 +13,4 @@ app.use(serve('.'));
 app.use(mount('/static', serve('../../out')));
 
 app.listen(3000);
-console.log('👉 http://localhost:3000');
+console.log('👉 http://localhost:6304');
